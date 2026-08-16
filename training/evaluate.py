@@ -9,7 +9,7 @@ from xgboost import XGBClassifier
 from app.features import split_xy
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-MODEL_PATH  = Path(__file__).parent.parent / "models" / "shot_mode.json"
+MODEL_PATH  = Path(__file__).parent.parent / "models" / "shot_mode.ubj"
 
 if __name__ == '__main__':
     mlflow.set_tracking_uri("http://localhost:5000")
@@ -30,7 +30,7 @@ if __name__ == '__main__':
     probs = model.predict_proba(test_x)[:, 1]
     signature = infer_signature(final_x, final_model.predict_proba(final_x)[:, 1])
     mlflow.xgboost.log_model(final_model, name='TunedXGBoostModelFinal', signature=signature)
-    final_model.save_model(str(Path(__file__).parent.parent / "models" / "shot_mode.json"))
+    final_model.save_model(str(Path(__file__).parent.parent / "models" / "shot_mode.ubj"))
 
     print(f"test brier:    {brier_score_loss(test_y, probs):.4f}")
     print(f"test log loss: {log_loss(test_y, probs):.4f}")

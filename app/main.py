@@ -8,9 +8,9 @@ from xgboost import XGBClassifier
 import app.utils as utils
 
 ROOT = Path(__file__).parent.parent
-SHOT_MODEL_PATH  = ROOT / "models" / "shot_mode.json"
-PLAYER_MODEL_PATH = ROOT / "models" / "player_mode.json"
-PLAYER_AVG_MODEL_PATH = ROOT / "models" / "player_mode_avg.json"
+SHOT_MODEL_PATH  = ROOT / "models" / "shot_mode.ubj"
+PLAYER_MODEL_PATH = ROOT / "models" / "player_mode.ubj"
+PLAYER_AVG_MODEL_PATH = ROOT / "models" / "player_mode_avg.ubj"
 BOUNDS_PATH = ROOT / "shared" / "bounds.json"
 PLAYER_BOUNDS_PATH = ROOT / "shared" / "player_bounds.json"
 ROSTER_PATH = ROOT / "shared" / "player_zones.json"

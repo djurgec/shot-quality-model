@@ -27,8 +27,8 @@ if __name__ == '__main__':
     model_player = XGBClassifier()
     test_df = pd.read_parquet(DATA_DIR / 'test_playerMode.parquet')
 
-    model_avg.load_model(str(MODEL_DIR / 'player_mode_avg.json'))
-    model_player.load_model(str(MODEL_DIR / 'player_mode.json'))
+    model_avg.load_model(str(MODEL_DIR / 'player_mode_avg.ubj'))
+    model_player.load_model(str(MODEL_DIR / 'player_mode.ubj'))
     player_zones = json.loads((SHARED_DIR / 'player_zones.json').read_text())
     playercode_dict = {v['name']:int(code) for code, v in player_zones.items()}
     playername_dict = {int(code):v['name'] for code, v in player_zones.items()}

@@ -16,8 +16,8 @@ if __name__ == "__main__":
     df = pd.read_parquet(DATA / "trainval_playerMode.parquet")
 
     player, avg = XGBClassifier(), XGBClassifier()
-    player.load_model(str(MODELS / "player_mode.json"))
-    avg.load_model(str(MODELS / "player_mode_avg.json"))
+    player.load_model(str(MODELS / "player_mode.ubj"))
+    avg.load_model(str(MODELS / "player_mode_avg.ubj"))
     df["delta"] = (player.predict_proba(split_xy_playermode(df)[0])[:, 1]
                    - avg.predict_proba(split_xy_playermode_avg(df)[0])[:, 1])
 
