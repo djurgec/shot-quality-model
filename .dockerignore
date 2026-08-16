@@ -1,0 +1,11 @@
+data/
+notebooks/
+plots/
+training/
+.idea/
+.git/
+__pycache__/
+*.pyc
+Dockerfile
+.dockerignore
+docker-compose.yml

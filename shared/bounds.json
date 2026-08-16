@@ -1,0 +1,83 @@
+{
+  "Dunk": {
+    "dist_min": 0.0,
+    "dist_max": 4.0,
+    "x_min": -27.0,
+    "x_max": 28.0,
+    "y_min": -7.0,
+    "y_max": 42.0,
+    "n": 73313
+  },
+  "Fadeaway": {
+    "dist_min": 3.0,
+    "dist_max": 25.0,
+    "x_min": -201.0,
+    "x_max": 209.0,
+    "y_min": -13.0,
+    "y_max": 206.0,
+    "n": 44728
+  },
+  "Floater": {
+    "dist_min": 1.0,
+    "dist_max": 17.0,
+    "x_min": -116.0,
+    "x_max": 116.0,
+    "y_min": -2.0,
+    "y_max": 159.0,
+    "n": 100658
+  },
+  "Hook Shot": {
+    "dist_min": 0.0,
+    "dist_max": 12.0,
+    "x_min": -90.0,
+    "x_max": 99.0,
+    "y_min": -3.0,
+    "y_max": 116.0,
+    "n": 48079
+  },
+  "Jump Shot": {
+    "dist_min": 4.0,
+    "dist_max": 30.0,
+    "x_min": -238.0,
+    "x_max": 238.0,
+    "y_min": -17.0,
+    "y_max": 285.0,
+    "n": 564244
+  },
+  "Layup": {
+    "dist_min": 0.0,
+    "dist_max": 8.0,
+    "x_min": -51.0,
+    "x_max": 54.0,
+    "y_min": -8.0,
+    "y_max": 69.0,
+    "n": 341274
+  },
+  "Pull-up": {
+    "dist_min": 5.0,
+    "dist_max": 31.0,
+    "x_min": -221.0,
+    "x_max": 219.0,
+    "y_min": -4.0,
+    "y_max": 295.0,
+    "n": 165592
+  },
+  "Putback": {
+    "dist_min": 0.0,
+    "dist_max": 5.0,
+    "x_min": -28.0,
+    "x_max": 29.0,
+    "y_min": -6.0,
+    "y_max": 46.0,
+    "n": 58044
+  },
+  "Step Back": {
+    "dist_min": 8.0,
+    "dist_max": 29.0,
+    "x_min": -234.0,
+    "x_max": 233.0,
+    "y_min": -12.0,
+    "y_max": 278.0,
+    "n": 55932
+  }
+}

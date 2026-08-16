@@ -1,0 +1,3352 @@
+{
+  "1": {
+    "name": "Dirk Nowitzki",
+    "zones": [
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "2": {
+    "name": "Jamal Crawford",
+    "zones": [
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "3": {
+    "name": "Zach Randolph",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "4": {
+    "name": "Tony Parker",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "5": {
+    "name": "LeBron James",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "6": {
+    "name": "Carmelo Anthony",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "7": {
+    "name": "Dwyane Wade",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "8": {
+    "name": "Andre Iguodala",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "9": {
+    "name": "Trevor Ariza",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "10": {
+    "name": "Marvin Williams",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "11": {
+    "name": "Chris Paul",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "12": {
+    "name": "Ersan Ilyasova",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "13": {
+    "name": "Lou Williams",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "14": {
+    "name": "Marcin Gortat",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "15": {
+    "name": "LaMarcus Aldridge",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "16": {
+    "name": "Rudy Gay",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "17": {
+    "name": "JJ Redick",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "18": {
+    "name": "Rajon Rondo",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "19": {
+    "name": "Kyle Lowry",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "20": {
+    "name": "P.J. Tucker",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "21": {
+    "name": "Paul Millsap",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "22": {
+    "name": "Kevin Durant",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "23": {
+    "name": "Al Horford",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "24": {
+    "name": "Mike Conley",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "25": {
+    "name": "Jeff Green",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "26": {
+    "name": "Thaddeus Young",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "27": {
+    "name": "Marco Belinelli",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "28": {
+    "name": "Wilson Chandler",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "29": {
+    "name": "Marc Gasol",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "30": {
+    "name": "Derrick Rose",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "31": {
+    "name": "Russell Westbrook",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "32": {
+    "name": "Kevin Love",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "33": {
+    "name": "Danilo Gallinari",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "34": {
+    "name": "Eric Gordon",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "35": {
+    "name": "D.J. Augustin",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "36": {
+    "name": "Brook Lopez",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "37": {
+    "name": "Robin Lopez",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "38": {
+    "name": "JaVale McGee",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "39": {
+    "name": "Courtney Lee",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "40": {
+    "name": "Kosta Koufos",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "41": {
+    "name": "Serge Ibaka",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "42": {
+    "name": "Nicolas Batum",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "43": {
+    "name": "George Hill",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "44": {
+    "name": "Goran Dragic",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "45": {
+    "name": "Blake Griffin",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "46": {
+    "name": "James Harden",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "47": {
+    "name": "Tyreke Evans",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "48": {
+    "name": "Ricky Rubio",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "49": {
+    "name": "Stephen Curry",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "50": {
+    "name": "DeMar DeRozan",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "51": {
+    "name": "James Johnson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "52": {
+    "name": "Jrue Holiday",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "53": {
+    "name": "Jeff Teague",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "54": {
+    "name": "Darren Collison",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "55": {
+    "name": "Taj Gibson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "56": {
+    "name": "DeMarre Carroll",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "57": {
+    "name": "Wayne Ellington",
+    "zones": [
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "58": {
+    "name": "Patrick Beverley",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "59": {
+    "name": "Danny Green",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "60": {
+    "name": "Patty Mills",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "61": {
+    "name": "Garrett Temple",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "62": {
+    "name": "Wesley Matthews",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "63": {
+    "name": "John Wall",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "64": {
+    "name": "Derrick Favors",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "65": {
+    "name": "DeMarcus Cousins",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "66": {
+    "name": "Al-Farouq Aminu",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "67": {
+    "name": "Gordon Hayward",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "68": {
+    "name": "Paul George",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "69": {
+    "name": "Eric Bledsoe",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "70": {
+    "name": "Avery Bradley",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "71": {
+    "name": "Hassan Whiteside",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "72": {
+    "name": "Nemanja Bjelica",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "73": {
+    "name": "Lance Stephenson",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "74": {
+    "name": "Ish Smith",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "75": {
+    "name": "Kyrie Irving",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "76": {
+    "name": "Enes Freedom",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "77": {
+    "name": "Tristan Thompson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "78": {
+    "name": "Jonas Valan\u010di\u016bnas",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "79": {
+    "name": "Bismack Biyombo",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "80": {
+    "name": "Kemba Walker",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "81": {
+    "name": "Klay Thompson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "82": {
+    "name": "Alec Burks",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "83": {
+    "name": "Markieff Morris",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "84": {
+    "name": "Marcus Morris Sr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "85": {
+    "name": "Kawhi Leonard",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "86": {
+    "name": "Nikola Vu\u010devi\u0107",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "87": {
+    "name": "Tobias Harris",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "88": {
+    "name": "Nikola Mirotic",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "89": {
+    "name": "Reggie Jackson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "90": {
+    "name": "Cory Joseph",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "91": {
+    "name": "Jimmy Butler III",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "92": {
+    "name": "Bojan Bogdanovic",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "93": {
+    "name": "E'Twaun Moore",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "94": {
+    "name": "Isaiah Thomas",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "95": {
+    "name": "Anthony Davis",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "96": {
+    "name": "Michael Kidd-Gilchrist",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "97": {
+    "name": "Bradley Beal",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "98": {
+    "name": "Dion Waiters",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "99": {
+    "name": "Damian Lillard",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "100": {
+    "name": "Terrence Ross",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "101": {
+    "name": "Andre Drummond",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "102": {
+    "name": "Harrison Barnes",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "103": {
+    "name": "Austin Rivers",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "104": {
+    "name": "Jeremy Lamb",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "105": {
+    "name": "Evan Fournier",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "106": {
+    "name": "Tomas Satoransky",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "107": {
+    "name": "Jae Crowder",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "108": {
+    "name": "Draymond Green",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "109": {
+    "name": "Khris Middleton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "110": {
+    "name": "Will Barton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "111": {
+    "name": "Kent Bazemore",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "112": {
+    "name": "Justin Holiday",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "113": {
+    "name": "JaMychal Green",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "114": {
+    "name": "Alex Len",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "115": {
+    "name": "Ben McLemore",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "116": {
+    "name": "CJ McCollum",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "117": {
+    "name": "Dennis Schr\u00f6der",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "118": {
+    "name": "Gorgui Dieng",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "119": {
+    "name": "Kelly Olynyk",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "120": {
+    "name": "Kentavious Caldwell-Pope",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "121": {
+    "name": "Mason Plumlee",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "122": {
+    "name": "Mike Muscala",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "123": {
+    "name": "Otto Porter Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "124": {
+    "name": "Reggie Bullock Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "125": {
+    "name": "Robert Covington",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "126": {
+    "name": "Rudy Gobert",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "127": {
+    "name": "Steven Adams",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "128": {
+    "name": "Tim Hardaway Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "129": {
+    "name": "Tony Snell",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "130": {
+    "name": "Trey Burke",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "131": {
+    "name": "Victor Oladipo",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "132": {
+    "name": "Giannis Antetokounmpo",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "133": {
+    "name": "James Ennis III",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "134": {
+    "name": "Raul Neto",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "135": {
+    "name": "Seth Curry",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "136": {
+    "name": "Rodney McGruder",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "137": {
+    "name": "Zach LaVine",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "138": {
+    "name": "Elfrid Payton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "139": {
+    "name": "Jordan Clarkson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "140": {
+    "name": "Gary Harris",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "141": {
+    "name": "Spencer Dinwiddie",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "142": {
+    "name": "Rodney Hood",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "143": {
+    "name": "Jerami Grant",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "144": {
+    "name": "Joe Harris",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "145": {
+    "name": "Doug McDermott",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "146": {
+    "name": "Aaron Gordon",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "147": {
+    "name": "T.J. Warren",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "148": {
+    "name": "Marcus Smart",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "149": {
+    "name": "Kyle Anderson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "150": {
+    "name": "Julius Randle",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "151": {
+    "name": "Andrew Wiggins",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "152": {
+    "name": "Jabari Parker",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "153": {
+    "name": "Joel Embiid",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "154": {
+    "name": "Dario Saric",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "155": {
+    "name": "Clint Capela",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "156": {
+    "name": "Bogdan Bogdanovi\u0107",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "157": {
+    "name": "Jusuf Nurki\u0107",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "158": {
+    "name": "Nikola Joki\u0107",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "159": {
+    "name": "Kristaps Porzi\u0146\u0123is",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "160": {
+    "name": "Tyler Johnson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "161": {
+    "name": "Langston Galloway",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "162": {
+    "name": "Joe Ingles",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "163": {
+    "name": "T.J. McConnell",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "164": {
+    "name": "Jahlil Okafor",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "165": {
+    "name": "Emmanuel Mudiay",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "166": {
+    "name": "Tyus Jones",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "167": {
+    "name": "Montrezl Harrell",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "168": {
+    "name": "Delon Wright",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "169": {
+    "name": "D'Angelo Russell",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "170": {
+    "name": "Karl-Anthony Towns",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "171": {
+    "name": "Richaun Holmes",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "172": {
+    "name": "Justise Winslow",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "173": {
+    "name": "Willie Cauley-Stein",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "174": {
+    "name": "Kelly Oubre Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "175": {
+    "name": "Frank Kaminsky",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "176": {
+    "name": "Devin Booker",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "177": {
+    "name": "Cameron Payne",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "178": {
+    "name": "Myles Turner",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "179": {
+    "name": "Trey Lyles",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "180": {
+    "name": "Stanley Johnson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "181": {
+    "name": "Bobby Portis",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "182": {
+    "name": "Christian Wood",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "183": {
+    "name": "Rondae Hollis-Jefferson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "184": {
+    "name": "Terry Rozier",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "185": {
+    "name": "Norman Powell",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "186": {
+    "name": "Pat Connaughton",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "187": {
+    "name": "Josh Richardson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "188": {
+    "name": "Larry Nance Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "189": {
+    "name": "Mario Hezonja",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "190": {
+    "name": "Royce O'Neale",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "191": {
+    "name": "Cedi Osman",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "192": {
+    "name": "Ben Simmons",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "193": {
+    "name": "Domantas Sabonis",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "194": {
+    "name": "Malik Beasley",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "195": {
+    "name": "Kris Dunn",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "196": {
+    "name": "Buddy Hield",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "197": {
+    "name": "Brandon Ingram",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "198": {
+    "name": "Caris LeVert",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "199": {
+    "name": "Dejounte Murray",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "200": {
+    "name": "Jamal Murray",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "201": {
+    "name": "Jakob Poeltl",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "202": {
+    "name": "Taurean Prince",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "203": {
+    "name": "Jaylen Brown",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "204": {
+    "name": "Malcolm Brogdon",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "205": {
+    "name": "Georges Niang",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "206": {
+    "name": "Pascal Siakam",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "207": {
+    "name": "Timothe Luwawu-Cabarrot",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "208": {
+    "name": "Yogi Ferrell",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "209": {
+    "name": "Juancho Hernangomez",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "210": {
+    "name": "Ivica Zubac",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "211": {
+    "name": "Dorian Finney-Smith",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "212": {
+    "name": "Fred VanVleet",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "213": {
+    "name": "Bryn Forbes",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "214": {
+    "name": "Danuel House Jr.",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "215": {
+    "name": "Derrick Jones Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "216": {
+    "name": "Alex Caruso",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "217": {
+    "name": "Markelle Fultz",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "218": {
+    "name": "Lonzo Ball",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "219": {
+    "name": "Josh Jackson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "220": {
+    "name": "De'Aaron Fox",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "221": {
+    "name": "Jayson Tatum",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "222": {
+    "name": "Malik Monk",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "223": {
+    "name": "Dennis Smith Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "224": {
+    "name": "Frank Ntilikina",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "225": {
+    "name": "Lauri Markkanen",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "226": {
+    "name": "Donovan Mitchell",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "227": {
+    "name": "Luke Kennard",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "228": {
+    "name": "Zach Collins",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "229": {
+    "name": "John Collins",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "230": {
+    "name": "OG Anunoby",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "231": {
+    "name": "Jarrett Allen",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "232": {
+    "name": "Bam Adebayo",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "233": {
+    "name": "Isaiah Hartenstein",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "234": {
+    "name": "Kyle Kuzma",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "235": {
+    "name": "Derrick White",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "236": {
+    "name": "Frank Jackson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "237": {
+    "name": "Josh Hart",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "238": {
+    "name": "Dillon Brooks",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "239": {
+    "name": "Monte Morris",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "240": {
+    "name": "Chris Boucher",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "241": {
+    "name": "Daniel Theis",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "242": {
+    "name": "Maxi Kleber",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "243": {
+    "name": "Torrey Craig",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "244": {
+    "name": "Grayson Allen",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "245": {
+    "name": "Marvin Bagley III",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "246": {
+    "name": "Mo Bamba",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "247": {
+    "name": "Mikal Bridges",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "248": {
+    "name": "Miles Bridges",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "249": {
+    "name": "Bruce Brown",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "250": {
+    "name": "Troy Brown Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "251": {
+    "name": "Jalen Brunson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "252": {
+    "name": "Wendell Carter Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "253": {
+    "name": "Hamidou Diallo",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "254": {
+    "name": "Donte DiVincenzo",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "255": {
+    "name": "Shai Gilgeous-Alexander",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "256": {
+    "name": "Aaron Holiday",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "257": {
+    "name": "Kevin Huerter",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "258": {
+    "name": "Jaren Jackson Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "259": {
+    "name": "Kevin Knox II",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "260": {
+    "name": "Caleb Martin",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "261": {
+    "name": "De'Anthony Melton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "262": {
+    "name": "Shake Milton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "263": {
+    "name": "Josh Okogie",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "264": {
+    "name": "Michael Porter Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "265": {
+    "name": "Collin Sexton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "266": {
+    "name": "Landry Shamet",
+    "zones": [
+      "Restricted Area",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "267": {
+    "name": "Anfernee Simons",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "268": {
+    "name": "Gary Trent Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "269": {
+    "name": "Moritz Wagner",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "270": {
+    "name": "Lonnie Walker IV",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "271": {
+    "name": "P.J. Washington",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "272": {
+    "name": "Kenrich Williams",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "273": {
+    "name": "Trae Young",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "274": {
+    "name": "Deandre Ayton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range"
+    ]
+  },
+  "275": {
+    "name": "Luka Don\u010di\u0107",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "276": {
+    "name": "Terence Davis",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "277": {
+    "name": "Rui Hachimura",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "278": {
+    "name": "Duncan Robinson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "279": {
+    "name": "Kendrick Nunn",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "280": {
+    "name": "Drew Eubanks",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "281": {
+    "name": "Terance Mann",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "282": {
+    "name": "Andrew Nembhard",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "283": {
+    "name": "Max Strus",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "284": {
+    "name": "Zion Williamson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "285": {
+    "name": "RJ Barrett",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "286": {
+    "name": "Cam Reddish",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "287": {
+    "name": "Ja Morant",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "288": {
+    "name": "De'Andre Hunter",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "289": {
+    "name": "Coby White",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "290": {
+    "name": "Brandon Clarke",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "291": {
+    "name": "Darius Garland",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "292": {
+    "name": "Nickeil Alexander-Walker",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "293": {
+    "name": "Tyler Herro",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "294": {
+    "name": "Keldon Johnson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "295": {
+    "name": "Kevin Porter Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "296": {
+    "name": "Darius Bazley",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "297": {
+    "name": "Nic Claxton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "298": {
+    "name": "Luguentz Dort",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "299": {
+    "name": "Daniel Gafford",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "300": {
+    "name": "Quentin Grimes",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "301": {
+    "name": "Talen Horton-Tucker",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "302": {
+    "name": "Ty Jerome",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "303": {
+    "name": "Cameron Johnson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "304": {
+    "name": "Jordan Poole",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "305": {
+    "name": "Naz Reid",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "306": {
+    "name": "Matisse Thybulle",
+    "zones": [
+      "Restricted Area",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "307": {
+    "name": "Grant Williams",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "308": {
+    "name": "Anthony Edwards",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "309": {
+    "name": "LaMelo Ball",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "310": {
+    "name": "Killian Hayes",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "311": {
+    "name": "Deni Avdija",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "312": {
+    "name": "Obi Toppin",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "313": {
+    "name": "Onyeka Okongwu",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "314": {
+    "name": "Tyrese Haliburton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "315": {
+    "name": "Devin Vassell",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "316": {
+    "name": "Isaac Okoro",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "317": {
+    "name": "Patrick Williams",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "318": {
+    "name": "Precious Achiuwa",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "319": {
+    "name": "Aaron Nesmith",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "320": {
+    "name": "Cole Anthony",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "321": {
+    "name": "Tyrese Maxey",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "322": {
+    "name": "Saddiq Bey",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "323": {
+    "name": "Josh Green",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "324": {
+    "name": "Jaden McDaniels",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "325": {
+    "name": "Jalen Smith",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "326": {
+    "name": "Immanuel Quickley",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "327": {
+    "name": "Tre Jones",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "328": {
+    "name": "Payton Pritchard",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "329": {
+    "name": "Desmond Bane",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "330": {
+    "name": "Jalen Green",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "331": {
+    "name": "Jonathan Kuminga",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "332": {
+    "name": "Naji Marshall",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "333": {
+    "name": "Ayo Dosunmu",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "334": {
+    "name": "Jae'Sean Tate",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "335": {
+    "name": "Trey Murphy III",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "336": {
+    "name": "Franz Wagner",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "337": {
+    "name": "Corey Kispert",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "338": {
+    "name": "Davion Mitchell",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "339": {
+    "name": "Austin Reaves",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "340": {
+    "name": "Cam Thomas",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "341": {
+    "name": "Scottie Barnes",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "342": {
+    "name": "Trendon Watford",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)"
+    ]
+  },
+  "343": {
+    "name": "Alperen Sengun",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "344": {
+    "name": "Josh Giddey",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "345": {
+    "name": "Santi Aldama",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "346": {
+    "name": "Jalen Suggs",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "347": {
+    "name": "Cade Cunningham",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "348": {
+    "name": "Evan Mobley",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "349": {
+    "name": "Aaron Wiggins",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "350": {
+    "name": "Dalano Banton",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "351": {
+    "name": "Dyson Daniels",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "352": {
+    "name": "Scoot Henderson",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "353": {
+    "name": "Jaden Ivey",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "354": {
+    "name": "Paolo Banchero",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "355": {
+    "name": "Jabari Smith Jr.",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "356": {
+    "name": "Chet Holmgren",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  },
+  "357": {
+    "name": "Bennedict Mathurin",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "358": {
+    "name": "Keegan Murray",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "359": {
+    "name": "Shaedon Sharpe",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3",
+      "Corner 3"
+    ]
+  },
+  "360": {
+    "name": "Jalen Williams",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "361": {
+    "name": "Victor Wembanyama",
+    "zones": [
+      "Restricted Area",
+      "In The Paint (Non-RA)",
+      "Mid-Range",
+      "Above the Break 3"
+    ]
+  },
+  "362": {
+    "name": "Keyonte George",
+    "zones": [
+      "In The Paint (Non-RA)",
+      "Above the Break 3"
+    ]
+  }
+}

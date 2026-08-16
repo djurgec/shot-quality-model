@@ -1,0 +1,32 @@
+{
+  "Above the Break 3": {
+    "elite": 0.0429,
+    "above": 0.0113,
+    "below": -0.021,
+    "poor": -0.0539
+  },
+  "Corner 3": {
+    "elite": 0.0553,
+    "above": 0.0179,
+    "below": -0.0213,
+    "poor": -0.0658
+  },
+  "In The Paint (Non-RA)": {
+    "elite": 0.0701,
+    "above": 0.0145,
+    "below": -0.0323,
+    "poor": -0.0847
+  },
+  "Mid-Range": {
+    "elite": 0.046,
+    "above": 0.0091,
+    "below": -0.0312,
+    "poor": -0.0713
+  },
+  "Restricted Area": {
+    "elite": 0.0704,
+    "above": 0.0149,
+    "below": -0.0369,
+    "poor": -0.0847
+  }
+}

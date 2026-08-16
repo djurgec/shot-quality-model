@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "quantile": 0.01,
+    "dist_quantile": 0.97,
+    "source": "train_cleanData.parquet",
+    "n_shots": 1451018,
+    "note": "one perimeter for the whole clickable area; the zone lines are interior, not part of the outline"
+  },
+  "y_min": -17.0,
+  "x_abs_max": 242.0,
+  "dist_max": 29.42
+}

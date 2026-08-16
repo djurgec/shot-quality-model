@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NBA Shot Quality Predictor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="banner" class="banner hidden" role="alert"></div>
+
+  <div class="layout">
+    <main class="court-pane">
+      <div class="court-wrap">
+        <svg id="court" viewBox="0 0 500 470" preserveAspectRatio="xMidYMid meet"
+             aria-label="Basketball half court — click to place a shot"></svg>
+        <div id="courtHint" class="court-hint">Choose a shot type to begin</div>
+        <div id="coordReadout" class="coord-readout" aria-hidden="true"></div>
+      </div>
+    </main>
+
+    <aside class="side-pane">
+      <header class="brand">
+        <div class="brand-text">
+          <h1>NBA Shot Quality Predictor</h1>
+          <p id="brandTagline">Expected points for an average NBA shooter, by shot type and spot on the floor.</p>
+        </div>
+      </header>
+
+      <div class="mode-switch" role="tablist" aria-label="Mode">
+        <button type="button" class="mode-btn selected" data-mode="shot" role="tab" aria-selected="true">By shot type</button>
+        <button type="button" class="mode-btn" data-mode="player" role="tab" aria-selected="false">By player</button>
+      </div>
+
+      <section class="card card-controls">
+        <div class="block" id="shotTypeBlock">
+          <span class="block-label">Shot type</span>
+          <div id="categoryButtons" class="cat-grid" role="group" aria-label="Shot type"></div>
+        </div>
+
+        <div class="block" id="playerBlock" hidden>
+          <span class="block-label">Player</span>
+          <select id="playerSelect" class="player-select" aria-label="Player"></select>
+        </div>
+
+        <div class="block" id="situationBlock" hidden>
+          <span class="block-label">Situation</span>
+          <label class="check">
+            <input type="checkbox" id="toggleMoving" />
+            <span>Off a cut or in transition</span>
+          </label>
+        </div>
+      </section>
+
+      <section class="card scorecard" id="scorecard">
+        <div class="scorecard-head">
+          <span class="block-label">Analysis</span>
+          <span class="quality-badge hidden" id="qualityBadge">—</span>
+          <span class="quality-badge hidden" id="playerBadge">—</span>
+        </div>
+
+        <div class="result-empty" id="resultEmpty">
+          <p id="resultEmptyText">Pick a shot type, then click the floor.</p>
+        </div>
+
+        <div class="result-body hidden" id="resultBodyShot">
+          <div class="score-row">
+            <div class="hero">
+              <span class="hero-value" id="xptsValue">—</span>
+              <span class="hero-label">Expected points</span>
+            </div>
+            <div class="gauge">
+              <svg viewBox="0 0 100 100" aria-hidden="true">
+                <circle class="ring-track" cx="50" cy="50" r="42" />
+                <circle class="ring-value" id="xfgRing" cx="50" cy="50" r="42" />
+              </svg>
+              <div class="gauge-center">
+                <span class="gauge-value" id="xfgValue">—</span>
+                <span class="gauge-label">xFG</span>
+              </div>
+            </div>
+          </div>
+          <p class="shot-meta" id="shotMeta"></p>
+        </div>
+
+        <div class="result-body hidden" id="resultBodyPlayer">
+          <div class="hero hero-wide">
+            <span class="hero-value" id="deltaValue">—</span>
+            <span class="hero-label">vs. league average</span>
+          </div>
+
+          <div class="delta-chart">
+            <div class="delta-track">
+              <div class="delta-zero"></div>
+              <div class="delta-fill" id="deltaFill"></div>
+            </div>
+            <div class="delta-scale">
+              <span>−10%</span><span>league avg</span><span>+10%</span>
+            </div>
+          </div>
+
+          <div class="stat-pair">
+            <div class="stat">
+              <span class="stat-value" id="playerXfgValue">—</span>
+              <span class="stat-label">Player xFG%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-value" id="avgXfgValue">—</span>
+              <span class="stat-label">League avg xFG%</span>
+            </div>
+          </div>
+
+          <p class="shot-meta" id="playerMessage"></p>
+        </div>
+
+        <div class="result-error hidden" id="resultError">
+          <div class="result-error-title" id="resultErrorTitle"></div>
+          <p class="result-error-msg" id="resultErrorMsg"></p>
+        </div>
+      </section>
+
+      <div class="quality-legend" id="qualityLegend" aria-hidden="true"></div>
+    </aside>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
