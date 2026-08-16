@@ -14,7 +14,7 @@ The idea came from SofaScore's xGoals feature, which puts a value on every footb
 
 The demo runs on a free Render instance, which is put to sleep after a period without visitors. If the page takes a while to appear, the container is starting up and loading the models, which takes around half a minute. Every visit after that is immediate.
 
-**[Live demo](TODO)**
+**[Live demo](https://nba-shot-quality-model.onrender.com/)**
 
 ## Local Quickstart
 
